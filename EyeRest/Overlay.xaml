@@ -1,0 +1,9 @@
+﻿<Window x:Class="EyeRest.Overlay"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    WindowState="Maximized"
+        ShowInTaskbar="False"
+    WindowStyle="None" AllowsTransparency="True" Opacity="0.75" Background="#99000000" IsEnabled="False"
+	IsHitTestVisible="False">
+	<Image Source="Icons/binoculars.png" Width="30px" Height="30px" Margin="15px" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+</Window>

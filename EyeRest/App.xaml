@@ -1,0 +1,53 @@
+﻿<Application x:Class="EyeRest.App"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	StartupUri="Window1.xaml">
+	<Application.Resources>
+		 <Style
+			x:Key="CustomButton"
+			TargetType="{x:Type Button}">
+			<Setter
+				Property="Padding"
+				Value="15px" />
+			<Setter
+				Property="Template">
+				<Setter.Value>
+					<ControlTemplate
+						TargetType="{x:Type Button}">
+						<Grid
+							x:Name="grid">
+							<Border
+								x:Name="border"
+								CornerRadius="0"
+								MinHeight="30px"
+								BorderThickness="0px">
+								<ContentPresenter x:Name="content"
+									HorizontalAlignment="Center"
+									VerticalAlignment="Center"></ContentPresenter>
+							</Border>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger
+								Property="IsMouseOver"
+								Value="True">
+								<Setter
+									Property="Background"
+									TargetName="border"
+									Value="#719fad">
+								</Setter>
+							</Trigger>
+							<Trigger
+								Property="IsEnabled"
+								Value="False">
+								<Setter
+									Property="Opacity"
+									TargetName="grid"
+									Value="0.25" />
+							</Trigger>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+	</Application.Resources>
+</Application>

@@ -1,0 +1,52 @@
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\bin\Debug\EyeRest.exe.config
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\bin\Debug\EyeRest.exe
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\bin\Debug\EyeRest.pdb
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\Overlay.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\Window1.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\Overlay.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\Window1.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\App.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\EyeRest.g.resources
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\EyeRest.exe
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\EyeRest.pdb
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\bin\Debug\EyeRest.exe.config
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\bin\Debug\EyeRest.exe
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\bin\Debug\EyeRest.pdb
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Overlay.baml
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Window1.baml
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\App.baml
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Overlay.g.cs
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Window1.g.cs
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\App.g.cs
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.g.resources
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.exe
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.pdb
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\OverlayItem.baml
+C:\Users\srihas\Documents\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\OverlayItem.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\bin\Debug\EyeRest.exe.config
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\bin\Debug\EyeRest.exe
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\bin\Debug\EyeRest.pdb
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Overlay.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\OverlayItem.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Window1.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\App.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Overlay.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\OverlayItem.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\Window1.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\App.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.g.resources
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.exe
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest.pdb
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\EyeRest\obj\Debug\EyeRest_MarkupCompile.lref
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\OverlayItem.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\App.baml
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\OverlayItem.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\All Projects\SharpDevelop Projects\EyeRest\EyeRest\obj\Debug\EyeRest_MarkupCompile.lref
